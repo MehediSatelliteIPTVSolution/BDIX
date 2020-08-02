@@ -178,11 +178,11 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/132
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://teevee-hd.com/img/cinemax.png" group-title="Movies",Cinemax
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/669
 
+#EXTINF:-1 ,Sony Movies
+http://51.52.156.22:8888/http/009
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="https://mpng.pngfly.com/20180625/hy/kisspng-warner-bros-logo-wordmark-film-warner-bros-5b316a4a7db3b1.3841405515299651305149.jpg" group-title="Entertainment",Warner
-http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/157
+#EXTINF:-1 ,Warner TV
+http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sony Pix" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="Movies",Sony Pix
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/149
