@@ -17,10 +17,10 @@ http://103.205.133.14/hls/ekushey.m3u8
 https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Boishakhi TV" tvg-logo="http://boishakhionline.com/frontend_source/assets/images/logo.png" group-title="Bangla",Boishakhi TV
-http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/219
+https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Bangla Vision" tvg-logo="https://2.bp.blogspot.com/-nSAt2ZYVv88/WVgtf_7hEGI/AAAAAAAAJOI/7332rsjOhOk4YWhK_ok-1y5b57iTLaCEACLcBGAs/s1600/bangla%2Bvision.png" group-title="Bangla",Bangla Vision
-http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/94
+https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Desh Tv" tvg-logo="https://2.bp.blogspot.com/-9EB96ZSuOMw/WHSSgQ3NkTI/AAAAAAAAFzE/hrs2OdLhrVw5zqVfGQn5cDdCq2PrL2DhACLcB/w1200-h630-p-k-no-nu/desh-tv-2.jpg" group-title="Bangla",Desh Tv
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/176
