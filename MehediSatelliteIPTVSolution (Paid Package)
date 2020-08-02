@@ -50,7 +50,7 @@ https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Deepto_TV_logo.png/240px-Deepto_TV_logo.png" group-title="Bangla",Deepto TV
-http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/205
+https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="ICC 2",Deepto TV
 http://103.205.133.14/hls/deeptotv.m3u8
@@ -59,13 +59,13 @@ http://103.205.133.14/hls/deeptotv.m3u8
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/665
 
 #EXTINF:-1 tvg-id="" tvg-name="Nagorik" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-b-n3tWCy4xe_62Eofp73qSS-7oaqnSIY7Jw=s288-c-k-c0xffffffff-no-rj-mo" group-title="Bangla",Nagorik
-http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/136
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Jalsha_HD_2019.png/revision/latest?cb=20190224050958" group-title="Bangla",Star Jalsha HD
-http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/193
+https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Zee_Bangla_New_Logo.jpg/220px-Zee_Bangla_New_Logo.jpg" group-title="Bangla",Zee Bangla
-http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/192
+http://livecdnh1.tvanywhere.ae/hls/zee_bangla/04.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Zee_Bangla_New_Logo.jpg/220px-Zee_Bangla_New_Logo.jpg" group-title="Bangla",Zee Bangla HD
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/865
