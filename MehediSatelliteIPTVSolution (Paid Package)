@@ -5,16 +5,16 @@ https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/663
 
 #EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/120px-ATN_Bangla.svg.png" group-title="Bangla",ATN Bangla
-http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/204
+https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Channel I" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Bangla",Channel I
-http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/643
+https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="ICC 2",Ekushey TV
 http://103.205.133.14/hls/ekushey.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RTv" tvg-logo="https://lh3.googleusercontent.com/RiRI3w6Tu0zfMOvIVHsV2keLlWvgs63EX4jqoDMZXB9Nu4Xv_116rvVjOOM7ZFT5pw" group-title="Bangla",RTv
-http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/145
+https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Boishakhi TV" tvg-logo="http://boishakhionline.com/frontend_source/assets/images/logo.png" group-title="Bangla",Boishakhi TV
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/219
