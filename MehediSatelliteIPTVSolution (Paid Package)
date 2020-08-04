@@ -233,7 +233,7 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/139
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/137
 
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic (dual language)" tvg-logo="https://mms.businesswire.com/media/20200117005517/en/551357/23/NGC_Logo.jpg" group-title="Documentary",National Geographic (dual language)
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/138
 
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1200px-Natgeologo.svg.png" group-title="Documentary",Nat Geo IN
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/864
