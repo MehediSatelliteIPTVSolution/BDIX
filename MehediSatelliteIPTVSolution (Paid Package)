@@ -277,7 +277,7 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/778
 #EXTINF:-1 tvg-id="" tvg-name="HUM Tv" tvg-logo="https://i.pinimg.com/originals/5b/08/48/5b08486530830efb54a9d2e2952548e6.png" group-title="Urdu",HUM Tv
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/779
 
-#EXTINF:-1 tvg-id="" tvg-name="Duronto " tvg-logo="https://vignette.wikia.nocookie.net/international-entertainment-project/images/0/0a/Duronto.jpg" group-title="Bangla",Duronto 
+#EXTINF:-1 tvg-id="" tvg-name="Duronto " tvg-logo="https://vignette.wikia.nocookie.net/international-entertainment-project/images/0/0a/Duronto.jpg" group-title="Kids",Duronto 
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/645
 
 #EXTINF:-1 tvg-id="" tvg-name="Nick" tvg-logo="https://logodix.com/logo/900709.png" group-title="Kids",Nick
@@ -286,13 +286,13 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/201
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/148
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/pt48qLO.png" group-title="KS",Nick Jr
+#EXTINF:0 tvg-logo="https://i.imgur.com/pt48qLO.png" group-title="Kids",Nick Jr
 https://itpolly.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/SyDM00x.png" group-title="KS",Nick Sonic
+#EXTINF:0 tvg-logo="https://i.imgur.com/SyDM00x.png" group-title="Kids",Nick Sonic
 https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/KARm3uR.png" group-title="KS",Nick
+#EXTINF:0 tvg-logo="https://i.imgur.com/KARm3uR.png" group-title="Kids",Nick
 https://itpolly.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://d1xfgk3mh635yx.cloudfront.net/sites/default/files/styles/original/public/image/featured/1016492-disney-channel-debut-new-worldwide-logo-and-air-look.jpg" group-title="Kids",Disney Channel
