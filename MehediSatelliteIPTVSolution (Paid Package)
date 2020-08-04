@@ -301,16 +301,16 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/111
 #EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/250px-Disney_Junior.svg.png" group-title="Kids",Disney Junior
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/202
 
-#EXTINF:-1 tvg-id="" tvg-name="Gaan Bangla" tvg-logo="http://projapoti.live/img/channels/gaan-bangla.jpg" group-title="Bangla",Gaan Bangla
+#EXTINF:-1 tvg-id="" tvg-name="Gaan Bangla" tvg-logo="http://projapoti.live/img/channels/gaan-bangla.jpg" group-title="Music",Gaan Bangla
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/121
 
-#EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla" tvg-logo="" group-title="Bangla",Sangeet Bangla
+#EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla" tvg-logo="" group-title="Music",Sangeet Bangla
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/644
 
-#EXTINF:-1 tvg-id="" tvg-name="RTV Music" tvg-logo="https://yt3.ggpht.com/a/AGF-l78e56zJN4rIU5OsmjFkXVYsC9faK2OXHcyn6A=s900-c-k-c0xffffffff-no-rj-mo" group-title="Bangla",RTV Music
+#EXTINF:-1 tvg-id="" tvg-name="RTV Music" tvg-logo="https://yt3.ggpht.com/a/AGF-l78e56zJN4rIU5OsmjFkXVYsC9faK2OXHcyn6A=s900-c-k-c0xffffffff-no-rj-mo" group-title="Music",RTV Music
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/650
 
-#EXTINF:-1 tvg-id="" tvg-name="B4U Music" tvg-logo="https://www.exchange4media.com/news-photo/1520499305_cwcokX_B4U_MUSIC_LOGO_NEW.jpg" group-title="Hindi",B4U Music
+#EXTINF:-1 tvg-id="" tvg-name="B4U Music" tvg-logo="https://www.exchange4media.com/news-photo/1520499305_cwcokX_B4U_MUSIC_LOGO_NEW.jpg" group-title="Music",B4U Music
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/93
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/MTV_Logo_2010.png" group-title="Music",MTV
@@ -319,22 +319,22 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/163
 #EXTINF:-1 tvg-id="" tvg-name="MTV Rocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/1200px-MTV_Rocks_2017_logo.svg.png" group-title="Music",MTV Rocks
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/662
 
-#EXTINF:-1 tvg-id="" tvg-name="9xM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Hindi",9xM
+#EXTINF:-1 tvg-id="" tvg-name="9xM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music",9xM
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/721
 
-#EXTINF:-1 tvg-id="" tvg-name="9x Jalwa" tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="Hindi",9x Jalwa
+#EXTINF:-1 tvg-id="" tvg-name="9x Jalwa" tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="Music",9x Jalwa
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/722
 
-#EXTINF:-1 tvg-id="" tvg-name="Zing" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Zing%28TVchannel%29Logo.jpg" group-title="Hindi",Zing
+#EXTINF:-1 tvg-id="" tvg-name="Zing" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Zing%28TVchannel%29Logo.jpg" group-title="Music",Zing
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/183
 
 #EXTINF:-1 tvg-id="" tvg-name="Vh1 It" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png" group-title="Music",Vh1 It
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/165
 
-#EXTINF:-1 tvg-id="" tvg-name="Mastiii" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MASTIII.png" group-title="Hindi",Mastiii
+#EXTINF:-1 tvg-id="" tvg-name="Mastiii" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MASTIII.png" group-title="Music",Mastiii
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/654
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="KS",Sangsad TV https://itpolly.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="Bangla",Sangsad TV https://itpolly.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="Bangla",Independent
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/648
@@ -360,16 +360,16 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/646
 #EXTINF:-1 tvg-id="" tvg-name="News 24" tvg-logo="http://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Bangla",News 24
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/141
 
-#EXTINF:-1 tvg-id="" tvg-name="BBC News" tvg-logo="https://f0.pngfuel.com/png/393/802/bbc-news-online-logo-of-the-bbc-hbo-logo-png-clip-art.png" group-title="News",BBC News
+#EXTINF:-1 tvg-id="" tvg-name="BBC News" tvg-logo="https://f0.pngfuel.com/png/393/802/bbc-news-online-logo-of-the-bbc-hbo-logo-png-clip-art.png" group-title="Int'l News",BBC News
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/95 
 
-#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="News",CNN
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="Int'l News",CNN
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/173
 
-#EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="https://www.adweek.com/tvnewser/wp-content/uploads/sites/3/2012/04/al-jazeera-news-tv-logo.jpg" group-title="News",Aljazeera
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="https://www.adweek.com/tvnewser/wp-content/uploads/sites/3/2012/04/al-jazeera-news-tv-logo.jpg" group-title="Int'l News",Aljazeera
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/87
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/68RuKLM.png" group-title="KS",DW https://itpolly.iptv.digijadoo.net/live/dw/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/68RuKLM.png" group-title="Int'l ",DW https://itpolly.iptv.digijadoo.net/live/dw/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NHKWorld Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="News",NHKWorld Japan
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/790
