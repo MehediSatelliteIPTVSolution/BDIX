@@ -157,6 +157,9 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/135
 #EXTINF:-1 tvg-id="" tvg-name="MNX" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_fR_MvZpuVo_-EDxTSl8C0jG_m23DAmSBOWQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="Movies",MNX
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/134
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="ENGLISH MOVIES",MNX
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Cinema World (Dual audio)" tvg-logo="https://img2.pngio.com/home-cinemaworld-world-cinema-png-3508_1128.png" group-title="Movies",Cinema World (Dual audio)
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/156
 
