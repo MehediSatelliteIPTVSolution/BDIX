@@ -70,9 +70,6 @@ http://livecdnh1.tvanywhere.ae/hls/zee_bangla/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Zee_Bangla_New_Logo.jpg/220px-Zee_Bangla_New_Logo.jpg" group-title="Bangla",Zee Bangla HD
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/865
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RxR0qdJ.png" group-title="BDIX04",COLORS
-PWdUZHowbUx6dG1iMWgyWXZFV2F6RjJYekozYnM5Mll2VW1kcHgyTDBWbWJ1ODJia0ZtYXBkV2FrNWlkMEJYYXVFRE1sZEdabDl5TDZNSGMwUkhh
-
 #EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Bangla",Colors Bangla
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 
